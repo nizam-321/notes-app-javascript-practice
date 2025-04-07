@@ -1,6 +1,10 @@
 # 🗒️ Notes App — JavaScript Practice Project
 
 This is a simple **Notes App** that I built while practicing JavaScript.  
+## 🌐 Live Demo
+
+[👉 Click here to try the Notes App](https://nizam-321.github.io/notes-app-javascript-practice/)
+
 It helped me get better at:
 
 - DOM manipulation
